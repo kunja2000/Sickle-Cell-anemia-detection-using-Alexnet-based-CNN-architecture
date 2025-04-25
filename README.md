@@ -40,3 +40,4 @@ The trained model was evaluated on a separate test image. The image was preproce
 <h2>Results</h2>
 
 The project achieved 78% accuracy on the test image, demonstrating its effectiveness in detecting sickle cell anaemia.
+2023 XYZ, Inc.
